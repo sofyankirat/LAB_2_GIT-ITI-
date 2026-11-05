@@ -56,6 +56,3 @@ To delete local tags
   -	git tag -d v1.0
 To delete Remote tags
   -	git push origin --delete v1.0
-
-<img width="577" height="455" alt="image" src="https://github.com/user-attachments/assets/e5ebcd4e-6840-411f-a520-01039e7ddbb0" />
-
